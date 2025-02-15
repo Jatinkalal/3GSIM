@@ -7,6 +7,7 @@ This project aims to reconstruct 3D garment meshes from single-view RGB images w
 3D garment reconstruction is crucial for realistic virtual environments in gaming, fashion, and e-commerce. By leveraging latent vector representations, we can manipulate clothing styles.
 ![2D Image to 3D Garment Mesh](https://github.com/Jatinkalal/3GSIM/blob/main/Image/fILE5.png)
 
+## Latent Attribute Editing
 ![Latent Attribute Editing](https://github.com/Jatinkalal/3GSIM/blob/main/Image/file3.png)
 
 ## Reconstruction Results of 3D Garment Mesh From Sinlge View 2D Image
