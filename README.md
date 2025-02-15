@@ -4,7 +4,7 @@
 This project aims to reconstruct 3D garment meshes from single-view RGB images while enabling latent attribute editing for the generation of diverse 3D garment variations.
 
 ## Reconstruction Results of 3D Garment Mesh From Sinlge View 2D Image
-![PCA + Auto Encoder](https://github.com/Jatinkalal/IM3D/blob/main/Images/last_moment.003.png)
+![Reconstructed Res](https://github.com/Jatinkalal/3GSIM/blob/main/Image/Recon_res.pdf)
 
 ## Results on Attribute Variation (Sleeve Length as Attribute)
 
