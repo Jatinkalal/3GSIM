@@ -1,4 +1,4 @@
-# 3GSIM - 3D Garment Reconstruction From Single View Image 
+# 3GSIM - 3D Garment Reconstruction From Single View Image (Under-review)
 
 ## Introduction
 This project aims to reconstruct 3D garment meshes from single-view RGB images while enabling latent attribute editing for the generation of diverse 3D garment variations.
