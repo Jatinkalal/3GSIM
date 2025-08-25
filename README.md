@@ -8,7 +8,7 @@ This project aims to reconstruct 3D garment meshes from single-view RGB images w
 ![2D Image to 3D Garment Mesh](https://github.com/Jatinkalal/3GSIM/blob/main/Image/fILE5.png)
 
 
-### (System Architecture & more to be updated soon)
+### (Under-review work)
 
 
 
